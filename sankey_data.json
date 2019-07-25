@@ -1,8 +1,8 @@
 {
 "nodes":[
-{"node":"node_2_1563997889264","name":"node_2_1563997889264"},
-{"node":"handler_13_1564003111923","name":"handler_13_1564003111923"}
+{"node":0,"name":"node_2_1563997889264"},
+{"node":1,"name":"handler_13_1564003111923"}
 ],
 "links":[
-{"source":"node_2_1563997889264","target":"handler_13_1564003111923","value":2}
+{"source":0,"target":1,"value":2}
 ]}
